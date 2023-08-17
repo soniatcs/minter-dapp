@@ -8,28 +8,8 @@
   - [BACKEND COMMANDS](#backend-commands)
   - [FRONTEND](#frontend)
 
-## RESOURCES
 
-### Main Video
 
-🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
-
-### Update Video adding Ethereum support!
-
-🚀 [How To Deploy a Smart Contract to Ethereum!! (Updated Minting dApp)](https://youtu.be/-EB2TTQxSWc)
-
-Base art generator code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
-Contract uses [NFTPort](https://nftport.xyz)
-
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
-
-## INSTALLATION
-
-### Backend
-
-- Clone this repo or download the latest release zip file.
-- Unzip, if needed, and open the folder in VS Code.
 - From the terminal run: 
 ```
  cd backend
